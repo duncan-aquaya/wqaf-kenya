@@ -1,0 +1,7 @@
+[project]
+name = "wqaf-kenya"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "nbstripout>=0.9.1",
+]
